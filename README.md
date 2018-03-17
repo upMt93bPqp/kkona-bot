@@ -13,6 +13,7 @@
 | !kkona | Lisätietoja botista |
 | !profiili | Lisätietoja käyttäjästä |
 | !kutsu | Lähettää kutsulinkin |
+| !bugi | Lähettää bugi-ilmoituituksen |
 
 # Käyttäminen
 
