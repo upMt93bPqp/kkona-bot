@@ -1,6 +1,7 @@
 ![img](https://imgur.com/fFSAYJU.png)
 
-> Vielä aika pahasti keskeneräinen botti Discordiin, jota kuitenkin päivitellään kohtuullisen aktiivisesti. Lisää komentojakin luvassa lähiaikoina
+> Vielä aika pahasti keskeneräinen botti Discordiin, jota kuitenkin päivitellään kohtuullisen aktiivisesti.
+> Myös komentoja luvassa lisää lähiaikoina. Tarvoitteena saada botista musiikkia toistava, jotta voit kuunnella lempibiisejäsi.
 
 # Ominaisuudet
 
