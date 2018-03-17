@@ -24,14 +24,14 @@ let props = require(`./komennot/${f}`);
 
 bot.on("ready", async () => {
   console.log(`${bot.user.username} on nyt päällä ja käytössä ${bot.guilds.size} serverillä`);
-  bot.user.setActivity(`${Botconfig.prefix}apua | ${bot.guilds.size} serverillä`)
+  bot.user.setActivity(`${Asetukset.prefix}apua | ${bot.guilds.size} serverillä`)
 });
 
 bot.on("message", async message => {
 if(message.author.bot) return;
 if(message.channel.type === "dm") return;
 
-let prefix = Botconfig.prefix;
+let prefix = Asetukset.prefix;
 let messageArray = message.content.split(" ");
 let komento = messageArray[0];
 let args = messageArray.slice(1);
