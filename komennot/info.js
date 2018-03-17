@@ -9,8 +9,8 @@ let serverembed = new Discord.RichEmbed()
   .setColor("#2291f4")
   .setThumbnail(sicon)
   .addField("Nimi", message.guild.name)
-  .addField("Luotu", message.guild.createdAt)
-  .addField("Jäseniä servulla", message.guild.memberCount);
+  .addField("Luotu", message.guild.createdAt.toDateString())
+  .addField("Jäseniä", message.guild.memberCount);
 
 return message.channel.send(serverembed);
 
