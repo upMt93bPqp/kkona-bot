@@ -35,7 +35,7 @@ let prefix = Botconfig.prefix;
 let messageArray = message.content.split(" ");
 let komento = messageArray[0];
 let args = messageArray.slice(1);
-let commandfile = bot.commands.get(cmd.slice(prefix.length));
+let commandfile = bot.commands.get(komento.slice(prefix.length));
 if(commandfile) commandfile.run(bot,message,args);
 
 });
