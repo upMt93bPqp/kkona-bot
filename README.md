@@ -16,4 +16,4 @@
 
 # Käyttäminen
 
-[Kutsu KKona omalle kanavalle](https://discordapp.com/api/oauth2/authorize?client_id=424343317854289943&permissions=8&scope=bot)
+[Kutsu KKona omalle kanavallesi](https://discordapp.com/api/oauth2/authorize?client_id=424343317854289943&permissions=8&scope=bot)
