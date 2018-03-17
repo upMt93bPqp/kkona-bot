@@ -1,5 +1,6 @@
 ![img](https://imgur.com/fFSAYJU.png)
-###### KKona 1.0.0
+
+> Vielä aika pahasti keskeneräinen botti Discordiin, jota kuitenkin päivitellään aktiivisesti ja ahkerasti.
 
 # Ominaisuudet
 
