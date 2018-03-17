@@ -10,7 +10,7 @@
 | !apua | Näyttää komennot |
 | !ping | Laskee latenssisi |
 | !info | Lisätietoja servusta |
-| !botinfo | Lisätietoja botista |
+| !kkona | Lisätietoja botista |
 | !profiili | Lisätietoja käyttäjästä |
 | !kutsu | Lähettää kutsulinkin |
 
