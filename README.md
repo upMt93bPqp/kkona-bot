@@ -1,6 +1,6 @@
 ![img](https://imgur.com/fFSAYJU.png)
 
-> Vielä aika pahasti keskeneräinen botti Discordiin, jota kuitenkin päivitellään aktiivisesti ja ahkerasti.
+> Vielä aika pahasti keskeneräinen botti Discordiin, jota kuitenkin päivitellään kohtuullisen aktiivisesti
 
 # Ominaisuudet
 
