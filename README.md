@@ -13,7 +13,7 @@
 | !info | Lisätietoja servusta |
 | !botinfo | Lisätietoja botista |
 | !profiili | Lisätietoja käyttäjästä |
-| !kutsu | Lähettää kutsulinkin |
+| !kutsu | Lähetä kutsulinkin |
 
 # Käyttäminen
 
