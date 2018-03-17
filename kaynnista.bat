@@ -1,0 +1,2 @@
+node kkona.js
+pause
