@@ -22,10 +22,10 @@
 
 # Käyttäminen
 ## Ohjelmistovaatimukset
+- [Git](https://git-scm.com/download/) asennettuna
 - [Node.js](https://nodejs.org/en/download/) asennettuna
 
 ## Asetukset kuntoon
-- Aluksi lataat botin tiedostot itsellesi
-- Siirrä tiedostot haluamaasi kansioon. Esimerkiksi luot työpöydälle KKona kansion.
+
 
 
