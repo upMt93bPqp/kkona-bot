@@ -21,8 +21,11 @@
 [Kutsu KKona omalle kanavallesi](https://discordapp.com/api/oauth2/authorize?client_id=424343317854289943&permissions=8&scope=bot)
 
 # Käyttäminen
-## Vaatimukset
+## Ohjelmistovaatimukset
 - [Node.js](https://nodejs.org/en/download/) asennettuna
 
+## Asetukset kuntoon
+- Aluksi lataat botin tiedostot itsellesi
+- Siirrä tiedostot haluamaasi kansioon. Esimerkiksi luot työpöydälle KKona kansion.
 
 
