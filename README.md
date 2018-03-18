@@ -32,5 +32,6 @@ npm install discord.js
 npm init
 ```
 - Muokkaat asetukset.json kuntoon, jonka löydät /cfg/ kansiosta:
-  *
+ - Laitat [tältä sivulta]( https://discordapp.com/developers/applications/me) saamasi tokenin sekä voit muuttaa halutessasi botin prefixiä, joka on oletuksena !
+ 
 
