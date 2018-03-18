@@ -25,7 +25,11 @@
 - [Node.js](https://nodejs.org/en/download/) asennettuna
 
 ## Asetukset kuntoon
-- Lataat kaikki botin tiedostot täältä GitHubista, jonka jälkeen siirrät lataamasi tiedostot haluamaasi kansioon. Esimerkiksi työpöydälle luot KKona-kansion johon siirrät kaiken
-
+- Lataat kaikki botin tiedostot täältä GitHubista, jonka jälkeen siirrät lataamasi tiedostot haluamaasi kansioon. Esimerkiksi työpöydälle luot KKona-kansion johon siirrät kaiken.
+- Avaat komentokehotteen (CMD) ja navigoit kansioon, jossa botti on. Käytä seuraavia komentoja, jotta saat botin itelläsi toimimaan:
+```
+npm install discord.js
+npm init
+```
 
 
