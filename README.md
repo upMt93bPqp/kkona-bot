@@ -22,8 +22,9 @@
 
 # Käyttäminen
 ## Esivalmistelut
-- [Node.js](https://nodejs.org/en/download/) asennettuna
-- Luot uuden sovelluksen Discordin [sivuilta](https://discordapp.com/developers/applications/me)
+- [Node.js](https://nodejs.org/en/download/) asennettuna.
+- Luot uuden sovelluksen Discordin [sivuilta](https://discordapp.com/developers/applications/me).
+- Kutsut sen omalle servullesi.
 
 ## Asetukset kuntoon
 - Lataat kaikki botin tiedostot täältä GitHubista, jonka jälkeen siirrät lataamasi tiedostot haluamaasi kansioon. Esimerkiksi työpöydälle luot KKona-kansion johon siirrät kaiken.
@@ -33,6 +34,7 @@ npm install discord.js
 npm init
 ```
 - Muokkaat asetukset.json kuntoon, jonka löydät /cfg/ kansiosta
- - Laitat Discordin [sivuilta](https://discordapp.com/developers/applications/me) saamasi tokenin asetukset-tiedostoon sekä voit muuttaa halutessasi botin prefixiä, joka on oletuksena !
+- Laitat Discordin [sivuilta](https://discordapp.com/developers/applications/me) saamasi tokenin asetukset-tiedostoon sekä voit muuttaa halutessasi botin prefixiä, joka on oletuksena !
+- Nyt käynnistä botti kaynnista.bat tiedostosta ja, jos teit kaiken oikein niin sinulla pitäisi olla juuri luomasi botti servullasi.
  
 
