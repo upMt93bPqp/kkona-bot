@@ -21,8 +21,9 @@
 [Kutsu KKona omalle kanavallesi](https://discordapp.com/api/oauth2/authorize?client_id=424343317854289943&permissions=8&scope=bot)
 
 # Käyttäminen
-## Ohjelmistovaatimukset
+## Esivalmistelut
 - [Node.js](https://nodejs.org/en/download/) asennettuna
+- Luot uuden sovelluksen Discordin [sivuilta](https://discordapp.com/developers/applications/me)
 
 ## Asetukset kuntoon
 - Lataat kaikki botin tiedostot täältä GitHubista, jonka jälkeen siirrät lataamasi tiedostot haluamaasi kansioon. Esimerkiksi työpöydälle luot KKona-kansion johon siirrät kaiken.
@@ -32,6 +33,6 @@ npm install discord.js
 npm init
 ```
 - Muokkaat asetukset.json kuntoon, jonka löydät /cfg/ kansiosta
- - Laitat [tältä sivulta]( https://discordapp.com/developers/applications/me) saamasi tokenin sekä voit muuttaa halutessasi botin prefixiä, joka on oletuksena !
+ - Laitat Discordin [sivuilta](https://discordapp.com/developers/applications/me) saamasi tokenin sekä voit muuttaa halutessasi botin prefixiä, joka on oletuksena !
  
 
