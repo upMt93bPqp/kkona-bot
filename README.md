@@ -18,3 +18,7 @@
 # Käyttäminen
 
 [Kutsu KKona omalle kanavallesi](https://discordapp.com/api/oauth2/authorize?client_id=424343317854289943&permissions=8&scope=bot)
+
+# Kuvia
+
+![img](https://imgur.com/JMYvysh.png)
