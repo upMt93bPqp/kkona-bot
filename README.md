@@ -35,6 +35,6 @@ npm init
 ```
 - Muokkaat asetukset.json kuntoon, jonka löydät /cfg/ kansiosta
 - Laitat Discordin [sivuilta](https://discordapp.com/developers/applications/me) saamasi tokenin asetukset-tiedostoon sekä voit muuttaa halutessasi botin prefixiä, joka on oletuksena !
-- Nyt käynnistä botti kaynnista.bat tiedostosta ja, jos teit kaiken oikein niin sinulla pitäisi olla juuri luomasi botti servullasi.
+- Nyt käynnistä botti kaynnista.bat tiedostosta ja jos teit kaiken oikein niin sinulla pitäisi olla juuri luomasi botti servullasi.
  
 
