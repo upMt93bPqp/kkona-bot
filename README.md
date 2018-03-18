@@ -14,6 +14,7 @@
 | !profiili | Lisätietoja käyttäjästä |
 | !kutsu | Lähettää kutsulinkin |
 | !bugi | Lähettää bugi-ilmoituksen |
+| !google | Tee google haku  |
 
 # Käyttäminen
 
