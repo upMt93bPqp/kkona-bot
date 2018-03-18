@@ -31,5 +31,6 @@
 npm install discord.js
 npm init
 ```
-
+- Muokkaat asetukset.json kuntoon, jonka löydät /cfg/ kansiosta:
+  *
 
