@@ -8,7 +8,7 @@
 | Komento |  Kuvaus |
 | --- | --- |
 | !apua | Näyttää komennot |
-| !ping | Laskee API:n ja sinun latenssisi |
+| !ping | Laskee API:n ja sinun latenssin |
 | !info | Lisätietoja servusta |
 | !kkona | Lisätietoja botista |
 | !profiili | Lisätietoja käyttäjästä |
