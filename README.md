@@ -14,8 +14,11 @@
 | !profiili | Lisätietoja käyttäjästä |
 | !kutsu | Lähettää kutsulinkin |
 | !g | Tee google haku |
+| !gif | Lähettää satunnaisen gifin |
+| !meme | Lähettää satunnaisen meemin |
 | !bugi | Lähettää bugi-ilmoituksen bugit-kanavalle |
 | !8ball | Vastaus mieltä askarruttavaan kysymykseen |
+
 
 # Kutsuminen omalle kanavalle
 
