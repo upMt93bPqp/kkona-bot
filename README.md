@@ -13,7 +13,7 @@
 | !kkona | Lisätietoja botista |
 | !profiili | Lisätietoja käyttäjästä |
 | !kutsu | Lähettää kutsulinkin |
-| !bugi | Lähettää bugi-ilmoituksen |
+| !bugi | Lähettää bugi-ilmoituksen bugit-kanavalle |
 | !g | Tee google haku |
 | !8ball | Vastaus mieltä askarruttavaan kysymykseen |
 
