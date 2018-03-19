@@ -15,7 +15,7 @@
 | !kutsu | Lähettää kutsulinkin |
 | !bugi | Lähettää bugi-ilmoituksen |
 | !g | Tee google haku |
-| !g | Vastaus mieltä askarruttavaan kysymykseenu |
+| !8ball | Vastaus mieltä askarruttavaan kysymykseen |
 
 # Kutsuminen omalle kanavalle
 
