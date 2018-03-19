@@ -13,8 +13,8 @@
 | !kkona | Lisätietoja botista |
 | !profiili | Lisätietoja käyttäjästä |
 | !kutsu | Lähettää kutsulinkin |
-| !bugi | Lähettää bugi-ilmoituksen bugit-kanavalle |
 | !g | Tee google haku |
+| !bugi | Lähettää bugi-ilmoituksen bugit-kanavalle |
 | !8ball | Vastaus mieltä askarruttavaan kysymykseen |
 
 # Kutsuminen omalle kanavalle
