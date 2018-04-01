@@ -5,21 +5,21 @@
 
 # Ominaisuudet
 
-| Komento |  Kuvaus |
-| ---  --- |
-| !apua | Näyttää komennot |
-| !ping | Laskee API:n ja sinun latenssin |
-| !info | Lisätietoja servusta |
-| !kkona | Lisätietoja botista |
-| !profiili | Lisätietoja käyttäjästä |
-| !kutsu | Lähettää kutsulinkin |
-| !lyhennys | Lyhentää linkin |
-| !g | Tee google haku |
-| !gif | Lähettää satunnaisen gifin |
-| !meme | Lähettää satunnaisen meemin |
-| !bugi | Lähettää bugi-ilmoituksen bugit-kanavalle |
-| !8ball | Vastaus mieltä askarruttavaan kysymykseen |
-| !kps | Pelaa bottia vastaan kivi, paperi, sakset peliä |
+| Komento |  Käyttö |  Kuvaus |
+| --- | --- | --- |
+| !apua | !apua | Näyttää komennot |
+| !ping | !ping | Laskee API:n ja sinun latenssin |
+| !info | !ping | Lisätietoja servusta |
+| !kkona | !kkona | Lisätietoja botista |
+| !profiili | !profiili | Lisätietoja käyttäjästä |
+| !kutsu | !kutsu | Lähettää kutsulinkin |
+| !lyhennys | !lyhennys <linkki> | Lyhentää linkin |
+| !g | !g <hakusana> | Tee google haku |
+| !gif | !gif | Lähettää satunnaisen gifin |
+| !meme | !meme | Lähettää satunnaisen meemin |
+| !bugi | !bugi | Lähettää bugi-ilmoituksen bugit-kanavalle |
+| !8ball | !8ball <kysymys> | Vastaus mieltä askarruttavaan kysymykseen |
+| !kps | !kps <kivi, paperi, sakset> | Pelaa bottia vastaan kivi, paperi, sakset peliä |
 
 
 # Kutsuminen omalle kanavalle
