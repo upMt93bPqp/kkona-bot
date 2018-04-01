@@ -6,18 +6,20 @@
 # Ominaisuudet
 
 | Komento |  Kuvaus |
-| --- | --- |
+| ---  --- |
 | !apua | Näyttää komennot |
 | !ping | Laskee API:n ja sinun latenssin |
 | !info | Lisätietoja servusta |
 | !kkona | Lisätietoja botista |
 | !profiili | Lisätietoja käyttäjästä |
 | !kutsu | Lähettää kutsulinkin |
+| !lyhennys | Lyhentää linkin |
 | !g | Tee google haku |
 | !gif | Lähettää satunnaisen gifin |
 | !meme | Lähettää satunnaisen meemin |
 | !bugi | Lähettää bugi-ilmoituksen bugit-kanavalle |
 | !8ball | Vastaus mieltä askarruttavaan kysymykseen |
+| !kps | Pelaa bottia vastaan kivi, paperi, sakset peliä |
 
 
 # Kutsuminen omalle kanavalle
