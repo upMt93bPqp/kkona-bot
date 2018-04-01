@@ -19,7 +19,7 @@
 | !meme | Lähettää satunnaisen meemin |
 | !bugi | Lähettää bugi-ilmoituksen bugit-kanavalle |
 | !8ball | Vastaus mieltä askarruttavaan kysymykseen |
-| !kps | Pelaa bottia vastaan kivi, paperi, sakset peliä |
+| !kps | Pelaa bottia vastaan kivi, paperi, sakset |
 
 
 # Kutsuminen omalle kanavalle
