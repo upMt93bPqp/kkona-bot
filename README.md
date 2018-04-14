@@ -13,14 +13,18 @@
 | !kkona | Lisätietoja botista |
 | !profiili | Lisätietoja käyttäjästä |
 | !kutsu | Lähettää kutsulinkin |
-| !lyhennys | Lyhentää linkin |
-| !g | Tee google haku |
-| !gif | Lähettää satunnaisen gifin |
-| !meme | Lähettää satunnaisen meemin |
 | !bugi | Lähettää bugi-ilmoituksen bugit-kanavalle |
+| !tuki | Näyttää botin kehittäjän tiedot |
+| !url | Lyhentää linkin |
+| !g | Tee google haku |
+| !gif | Hae GIF jollain hakusanalla |
+| !meme | Lähettää satunnaisen meemin |
+| !kissa | Lähettää satunnaisen kuvan kissasta |
 | !8ball | Vastaus mieltä askarruttavaan kysymykseen |
 | !kps | Pelaa bottia vastaan kivi, paperi, sakset |
-
+| !roll | Rollaa jotain numeroiden 1-1000 väliltä |
+| !mutsis | Hassun hauskoja mutsis-vitsejä |
+| !fakta | Satunnainen suomalainen fakta |
 
 # Kutsuminen omalle kanavalle
 
