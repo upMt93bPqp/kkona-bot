@@ -13,7 +13,6 @@
 | !kkona | Lisätietoja botista |
 | !profiili | Lisätietoja käyttäjästä |
 | !kutsu | Lähettää kutsulinkin |
-| !bugi | Lähettää bugi-ilmoituksen bugit-kanavalle |
 | !tuki | Näyttää botin kehittäjän tiedot |
 | !url | Lyhentää linkin |
 | !g | Tee google haku |
